@@ -7,4 +7,5 @@
 - "groupModelQuantization.ipynb": was used for obtaining the quantized models
 - "groupModelTraining.ipynb": was used for running the hyperparameter optimizers
 - "groupTrainValTestSplit.ipynb": contains preprocessing of grouped data and generates the train, val, test split
-
+- "plots": contains various plots extracted from the data
+-  "*.h5" and "*.keras" files: contains information about the models that can be loaded using Keras
